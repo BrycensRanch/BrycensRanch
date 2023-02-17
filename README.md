@@ -50,6 +50,9 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BrycensRanch&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **BrycensRanch/BrycensRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
