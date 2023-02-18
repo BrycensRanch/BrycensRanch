@@ -51,6 +51,81 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2037%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 291 Contributions in the Year 2023
+ > 
+> 📦 41.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning       18 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌆 Daytime       55 commits       █████████░░░░░░░░░░░░░░░░   39.29 % 
+🌃 Evening       60 commits       ██████████░░░░░░░░░░░░░░░   42.86 % 
+🌙 Night          7 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday          28 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday          4 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Wednesday        9 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Thursday         6 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Friday          25 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Saturday        56 commits       ██████████░░░░░░░░░░░░░░░   40.00 % 
+Sunday          12 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+YAML                     8 mins              █████████████░░░░░░░░░░░░   54.22 % 
+Markdown                 7 mins              ███████████░░░░░░░░░░░░░░   45.78 % 
+
+🔥 Editors: 
+VS Code                  16 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+BrycensRanch             16 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  16 mins             █████████████████████████   100.00 % 
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ███████████████░░░░░░░░░░   60.00 % 
+Astro                    1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/charts/bar_graph.png) 
+
+
+ Last Updated on 18/02/2023 01:11:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
