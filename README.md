@@ -40,6 +40,9 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
 - Tauri, so I can build cool desktop applications!
 
  I'm currently looking to collaborate with others looking to become Software Engineers, if you have any suggestions on how to find people just like me, [leave an issue](https://github.com/BrycensRanch/BrycensRanch/issues/new) on my GitHub repository.
+ 
+ <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BrycensRanch&amp;theme=dark&amp;hide_border=true&amp;fire=EB5454&amp;ring=0CEB19" alt="GitHub Streak"></a></p>
+
 
 ### Certifications
 
