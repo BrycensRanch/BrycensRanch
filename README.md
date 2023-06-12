@@ -97,16 +97,21 @@ Sunday                   191 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      9 mins              ██████████████████████░░░   87.89 % 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AuthApp                  10 mins             █████████████████████████   98.74 % 
+Portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +131,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 01:28:30 UTC
+ Last Updated on 12/06/2023 01:22:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
