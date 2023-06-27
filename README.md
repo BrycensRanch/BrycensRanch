@@ -60,7 +60,7 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
 
 **🐱 My GitHub Data** 
 
-> 📦 146.5 kB Used in GitHub's Storage 
+> 📦 146.0 kB Used in GitHub's Storage 
  > 
 > 🏆 487 Contributions in the Year 2023
  > 
@@ -130,7 +130,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 01:27:51 UTC
+ Last Updated on 27/06/2023 01:27:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
