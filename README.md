@@ -60,7 +60,7 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
 
 **🐱 My GitHub Data** 
 
-> 📦 146.1 kB Used in GitHub's Storage 
+> 📦 146.2 kB Used in GitHub's Storage 
  > 
 > 🏆 487 Contributions in the Year 2023
  > 
@@ -97,20 +97,16 @@ Sunday                   204 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-textmate                 13 mins             ██████████░░░░░░░░░░░░░░░   40.02 % 
-Text                     9 mins              ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-JSON                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Portfolio                34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +126,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 01:24:48 UTC
+ Last Updated on 30/06/2023 01:23:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
