@@ -60,7 +60,7 @@ It all started from a simple Discord bot and me being a cheapskate, lol. Look at
 
 **🐱 My GitHub Data** 
 
-> 📦 148.4 kB Used in GitHub's Storage 
+> 📦 148.3 kB Used in GitHub's Storage 
  > 
 > 🏆 493 Contributions in the Year 2023
  > 
@@ -131,7 +131,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2023 01:01:24 UTC
+ Last Updated on 01/09/2023 01:04:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
