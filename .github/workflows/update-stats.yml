@@ -14,7 +14,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@8b5b97f31b4f395660bf9e2add7e2a24a64754f8 #PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@224aa0f #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
