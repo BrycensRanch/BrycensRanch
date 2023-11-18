@@ -3,18 +3,20 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=BrycensRanch" alt="Brycen's Profile Views" />
 
-I'm a teenager from Florida that **loves** programming and experiencing new things. Looking towards the future, starting the grind to become a Software Engineer. Learning full stack.
+Someone who **loves** programming and experiences new things. Looking towards the future, I am starting the grind to become a Software Engineer and learning full-stack development.
 
-It all started from a simple Discord bot and me being a cheapskate, lol. Look at me now!
+It all started from a simple Discord bot and me being a cheapskate. Look at me now!
 
 ## Key fundamentals & thoughts
 
 - All projects should have a README.md and be well documented.
-- README-driven development is key to having a well-planned out project.
+- README-driven development is crucial to having a well-planned project.
 - `npm install` **never** killed anybody
 - Any commit I spit out should be **signed** so you know who just committed untested code to the master branch!
 - It's okay to break things! I learned this from being a Minecraft SMP server owner for a year, I was usually the reason the server was down. 😎
 - I should probably learn test-driven development already...
+- Why are my tests failing?
+- Why are GitHub Actions failing 80% of my commits? 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" height="400"/>
 
