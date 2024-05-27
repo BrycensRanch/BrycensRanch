@@ -50,13 +50,15 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,20 +93,20 @@ Sunday                   1350 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    28 hrs 38 mins      █████████████████████████   100.00 % 
+Other                    40 hrs 10 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     28 hrs 38 mins      █████████████████████████   100.00 % 
+Edge                     40 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aspnetcore               8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Kiosk-System             8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-templating               4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-HelloWorld               3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-gogdl-ng                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+aspnetcore               8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Kiosk-System             8 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+qtjambi                  5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+HelloWorld               5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+templating               4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 
 💻 Operating System: 
-Linux                    28 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +126,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 00:56:40 UTC
+ Last Updated on 27/05/2024 00:53:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
