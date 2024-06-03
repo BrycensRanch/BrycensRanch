@@ -11,11 +11,11 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 
 - All projects should have a README.md and be well documented.
 - README-driven development is crucial to having a well-planned project.
-- `npm install` **never** killed anybody
-- Any commit I spit out should be **signed** so you know who just committed untested code to the master branch!
+- `npm install` to the moon 🚀
+- Any commit I spit out should be **signed** so you know who just committed broken untested code to the master branch!
 - It's okay to break things! I learned this from being a Minecraft SMP server owner for a year, I was usually the reason the server was down. 😎
 - I should probably learn test-driven development already...
-- Why are my tests failing?
+- Why are my tests failing me?
 - Why are GitHub Actions failing 80% of my commits? 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" height="400"/>
@@ -38,12 +38,6 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
  I'm currently looking to collaborate with others looking to become Software Engineers, if you have any suggestions on how to find people just like me, [leave an issue](https://github.com/BrycensRanch/BrycensRanch/issues/new) on my GitHub repository.
  
  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BrycensRanch&amp;theme=dark&amp;hide_border=true&amp;fire=EB5454&amp;ring=0CEB19" alt="GitHub Streak"></a></p>
-
-
-### Certifications
-
-- Currently, none! Unless you count the hour of code I did in Elementary. 🤣
-- Trust me bro certified
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BrycensRanch&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
