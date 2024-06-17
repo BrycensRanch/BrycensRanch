@@ -44,11 +44,15 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +125,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 00:58:19 UTC
+ Last Updated on 17/06/2024 00:56:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
