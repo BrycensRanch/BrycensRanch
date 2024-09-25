@@ -11,6 +11,7 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 
 - All projects should have a README.md and be well documented.
 - README-driven development is crucial to having a well-planned project.
+- Live, Laugh, Google
 - `npm install` to the moon 🚀
 - Any commit I spit out should be **signed** so you know who just committed broken untested code to the master branch!
 - It's okay to break things! I learned this from being a Minecraft SMP server owner for a year, I was usually the reason the server was down. 😎
