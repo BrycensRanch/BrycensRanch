@@ -38,7 +38,7 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 
  I'm currently looking to collaborate with others looking to become Software Engineers, if you have any suggestions on how to find people just like me, [leave an issue](https://github.com/BrycensRanch/BrycensRanch/issues/new) on my GitHub repository.
  
- <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?cache&user=BrycensRanch&amp;theme=dark&amp;hide_border=true&amp;fire=EB5454&amp;ring=0CEB19" alt="GitHub Streak"></a></p>
+ <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?saas&user=BrycensRanch&amp;theme=dark&amp;hide_border=true&amp;fire=EB5454&amp;ring=0CEB19" alt="GitHub Streak"></a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BrycensRanch&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
