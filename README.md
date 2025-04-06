@@ -18,6 +18,7 @@ It all started from a simple Discord bot and me being a cheapskate. Look at me n
 - I should probably learn test-driven development already...
 - Why are my tests failing me?
 - Why are GitHub Actions failing 80% of my commits? 
+- Just because something is the most popular, doesnt mean its the best tool for the job.
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" height="400"/>
 
