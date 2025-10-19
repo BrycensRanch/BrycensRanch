@@ -20,7 +20,6 @@ It all started from a simple Discord bot and me being a cheapskate. I've come a 
 - Just because something is the most popular, doesnt mean its the best tool for the job.
 - Working with other people and being able to learn from them is a gift in of itself.
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OoBLh7-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1614/1%2A8BlqJ8lNVZzuRjAg1mZ50w.png" height="400"/>
 
 <h4>Languages and tools</h4>
 <p>
@@ -131,6 +130,8 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 19/10/2025 01:31:52 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://media1.tenor.com/m/lHB4puQoi8MAAAAC/eggnog-penguins-of-madagasgar.gif" />
 
 <!--
 **BrycensRanch/BrycensRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
