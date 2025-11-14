@@ -39,7 +39,7 @@ It all started from a simple Discord bot and me being a cheapskate. I've come a 
 
 I’m deeply involved in software engineering and eager to collaborate with others on the same journey. If you have any suggestions on how to connect with like-minded people, please [leave an issue](https://github.com/BrycensRanch/BrycensRanch/issues/new) on my GitHub repository! Bonus points if you can explain why my code works only after I restart my computer. 
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=BrycensRanch&theme=dark&hide_border=true" alt="GitHub Streak"></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=BrycensRanch&theme=dark&hide_border=true&ring=green" alt="GitHub Streak"></a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BrycensRanch&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
