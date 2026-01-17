@@ -129,7 +129,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
  Last Updated on 17/01/2026 01:37:46 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://media1.tenor.com/m/lHB4puQoi8MAAAAC/eggnog-penguins-of-madagasgar.gif" />
+<img align="center" src="https://media.tenor.com/K7lXe8N-6dkAAAAi/the-time-is-always-right-to-do-what-is-right-martin-luther-king-jr.gif" />
 
 <!--
 **BrycensRanch/BrycensRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
