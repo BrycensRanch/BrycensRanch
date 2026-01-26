@@ -131,8 +131,6 @@ Ruby                     1 repo              █░░░░░░░░░░�
  Last Updated on 25/01/2026 01:44:35 UTC
 <!--END_SECTION:waka-->
 
-<img align="center" src="https://media.tenor.com/K7lXe8N-6dkAAAAi/the-time-is-always-right-to-do-what-is-right-martin-luther-king-jr.gif" />
-
 <!--
 **BrycensRanch/BrycensRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
