@@ -46,7 +46,7 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C951%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C954%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,21 +63,21 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15032 commits       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌆 Daytime                21488 commits       █████████░░░░░░░░░░░░░░░░   37.09 % 
-🌃 Evening                16048 commits       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌙 Night                  5370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+🌞 Morning                15393 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌆 Daytime                22024 commits       █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌃 Evening                16454 commits       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+🌙 Night                  5517 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   10040 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Tuesday                  7486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Wednesday                7400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Thursday                 7108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   8515 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 9928 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Sunday                   7461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Monday                   10340 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  7728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Wednesday                7573 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Thursday                 7276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   8754 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 10099 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   7618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 
 
@@ -87,20 +87,21 @@ Sunday                   7461 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.08 % 
-Project file properties  33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+YAML                     1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.72 % 
+Project file properties  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-Jetbrainsrider           2 hrs 30 mins       █████████████████████████   100.00 % 
+Jetbrainsrider           2 hrs 24 mins       █████████████████░░░░░░░░   68.70 % 
+Rider                    1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.30 % 
 
 🐱‍💻 Projects: 
-SnapX                    2 hrs 30 mins       █████████████████████████   100.00 % 
+SnapX                    3 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -120,7 +121,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:33:26 UTC
+ Last Updated on 25/07/2026 02:36:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
