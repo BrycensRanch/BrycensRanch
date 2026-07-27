@@ -46,7 +46,7 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C959%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C960%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -87,22 +87,23 @@ Sunday                   7316 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.02 % 
-YAML                     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Git Attributes File      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    7 hrs 30 mins       ██████████████████░░░░░░░   70.49 % 
+YAML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Project file properties  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Edge                     3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.11 % 
-Jetbrainsrider           2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Rider                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Edge                     7 hrs 33 mins       ██████████████████░░░░░░░   70.94 % 
+Rider                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Jetbrainsrider           1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 
 🐱‍💻 Projects: 
-SnapX                    6 hrs 30 mins       █████████████████████████   100.00 % 
+SnapX                    10 hrs 37 mins      █████████████████████████   99.82 % 
+ShareX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Linux                    6 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -122,7 +123,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 02:34:55 UTC
+ Last Updated on 27/07/2026 02:50:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
