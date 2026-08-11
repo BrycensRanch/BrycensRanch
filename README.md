@@ -65,21 +65,21 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14701 commits       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-🌆 Daytime                20914 commits       █████████░░░░░░░░░░░░░░░░   37.08 % 
-🌃 Evening                15640 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌙 Night                  5150 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+🌞 Morning                14739 commits       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌆 Daytime                20977 commits       █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌃 Evening                15681 commits       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+🌙 Night                  5172 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   9632 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Tuesday                  7203 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                7330 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Thursday                 6958 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Friday                   8275 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Saturday                 9778 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Sunday                   7229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Monday                   9674 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Tuesday                  7234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Wednesday                7337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Thursday                 6974 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   8299 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Saturday                 9793 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Sunday                   7258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 
 
@@ -89,26 +89,26 @@ Sunday                   7229 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    14 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   40.86 % 
-Markdown                 10 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-YAML                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Project file properties  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Bash                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other                    14 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   41.99 % 
+Markdown                 10 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+YAML                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Project file properties  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Bash                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-Edge                     20 hrs 18 mins      ██████████████░░░░░░░░░░░   55.70 % 
-Rider                    14 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   40.76 % 
-VS Code                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Edge                     19 hrs 52 mins      ██████████████░░░░░░░░░░░   56.31 % 
+Rider                    14 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.51 % 
+VS Code                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-SnapX                    28 hrs 6 mins       ███████████████████░░░░░░   77.06 % 
-ShareX                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-FxSsh                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-mcpelauncher-manifest    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Meziantou.Analyzer       43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+SnapX                    27 hrs 28 mins      ███████████████████░░░░░░   77.80 % 
+ShareX                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+FxSsh                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+mcpelauncher-manifest    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Meziantou.Analyzer       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Linux                    36 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +134,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:38:52 UTC
+ Last Updated on 11/08/2026 01:43:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
