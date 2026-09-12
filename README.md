@@ -137,6 +137,9 @@ Ruby                     1 repo              █░░░░░░░░░░�
  Last Updated on 12/09/2026 03:01:28 UTC
 <!--END_SECTION:waka-->
 
+<img width="498" height="498" alt="atrain" src="https://github.com/user-attachments/assets/1bc48739-6140-48cd-8ae7-30348d5332c1" />
+
+
 <!--
 **BrycensRanch/BrycensRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
