@@ -46,7 +46,7 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C292%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C300%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -89,26 +89,26 @@ Sunday                   7370 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    27 hrs 37 mins      ███████████████░░░░░░░░░░   58.93 % 
-Bash                     4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-YAML                     4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Project file properties  3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Markdown                 2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other                    26 hrs 15 mins      █████████████░░░░░░░░░░░░   53.11 % 
+YAML                     6 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Bash                     5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Project file properties  2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Markdown                 2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 12 mins      ████████████████████░░░░░   79.37 % 
-Jetbrainsrider           9 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Chrome                   38 hrs 13 mins      ███████████████████░░░░░░   77.31 % 
+Jetbrainsrider           11 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-StaticLink.Avalonia      21 hrs 41 mins      ████████████░░░░░░░░░░░░░   46.28 % 
-SnapX                    6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Avalonia                 3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-NWayland                 2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-ShareX                   2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+StaticLink.Avalonia      28 hrs 7 mins       ██████████████░░░░░░░░░░░   56.89 % 
+SnapX                    4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Avalonia                 3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+NWayland                 2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+WACS                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Linux                    46 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    49 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +134,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 03:24:34 UTC
+ Last Updated on 27/09/2026 03:27:03 UTC
 <!--END_SECTION:waka-->
 
 <img width="498" height="498" alt="atrain" src="https://github.com/user-attachments/assets/1bc48739-6140-48cd-8ae7-30348d5332c1" />
