@@ -65,21 +65,21 @@ I’m deeply involved in software engineering and eager to collaborate with othe
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15067 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌆 Daytime                21585 commits       █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌃 Evening                16139 commits       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-🌙 Night                  5329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌞 Morning                15074 commits       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌆 Daytime                21588 commits       █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌃 Evening                16140 commits       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌙 Night                  5331 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   10015 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Tuesday                  7504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Wednesday                7504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 7162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Friday                   8538 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 9952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Sunday                   7445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Monday                   10016 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Tuesday                  7516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wednesday                7506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 7163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   8540 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 9953 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Sunday                   7439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -89,26 +89,26 @@ Sunday                   7445 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    29 hrs 23 mins      ███████████████████░░░░░░   74.06 % 
-Project file properties  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-MsBuild targets file     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-C#                       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Other                    26 hrs 9 mins       █████████████████████░░░░   82.93 % 
+Project file properties  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+XML                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Chrome                   35 hrs 20 mins      ██████████████████████░░░   89.05 % 
-Jetbrainsrider           3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Chrome                   29 hrs 49 mins      ████████████████████████░   94.56 % 
+Jetbrainsrider           1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-StaticLink.Avalonia      17 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.87 % 
-GitVersion               8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Avalonia                 6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-SnapX                    4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-S3Server                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+StaticLink.Avalonia      8 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+GitVersion               7 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Avalonia                 6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+SnapX                    5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+S3Server                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-Linux                    39 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +134,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrycensRanch/BrycensRanch/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 04:16:45 UTC
+ Last Updated on 11/10/2026 03:44:46 UTC
 <!--END_SECTION:waka-->
 
 <img width="498" height="498" alt="atrain" src="https://github.com/user-attachments/assets/1bc48739-6140-48cd-8ae7-30348d5332c1" />
